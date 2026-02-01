@@ -1,14 +1,14 @@
 # Playwright Python E-commerce Tests
 
-Automated tests for a sample e-commerce website using **Playwright** with **Python** and **pytest**.  
-Tests include login scenarios, validation of page URLs, and intentionally failing tests to demonstrate reporting and screenshot capturing.
-
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Playwright](https://img.shields.io/badge/Playwright-1.36-orange)
 ![pytest](https://img.shields.io/badge/pytest-9.0.2-green)
 ![pytest-html](https://img.shields.io/badge/pytest--html-4.2.0-blueviolet)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+Automated tests for a sample e-commerce website using **Playwright** with **Python** and **pytest**.  
+Tests include login scenarios, validation of page URLs, and intentionally failing tests to demonstrate reporting and screenshot capturing.
 
 ---
 
